@@ -1,11 +1,3 @@
-/**
- * @Author: karen
- * @Email: hainazhitong@foxmail.com
- * @Version: 1.0.0
- * @Date: 2020/7/20 16:13
- * @Description: //TODO
- */
-
 /*
 https://github.com/envoyproxy/protoc-gen-validate
 

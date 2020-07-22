@@ -1,11 +1,3 @@
-/**
- * @Author: karen
- * @Email: hainazhitong@foxmail.com
- * @Version: 1.0.0
- * @Date: 2020/7/20 15:55
- * @Description: //TODO
- */
-
 package validator
 
 import (
